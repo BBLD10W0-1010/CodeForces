@@ -1,10 +1,12 @@
-﻿namespace CodeForces
+﻿using CodeForces._800RATE;
+namespace CodeForces
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            _479A.Solution();
+            _110A.Solution();
+            
         }
     }
 }

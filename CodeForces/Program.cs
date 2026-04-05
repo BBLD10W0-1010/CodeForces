@@ -5,7 +5,7 @@ namespace CodeForces
     {
         static void Main(string[] args)
         {
-            _110A.Solution();
+            _734A.Solution();
             
         }
     }
